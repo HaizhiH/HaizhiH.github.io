@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+### 文中若有纰漏，望[不吝斧正](https://github.com/HaizhiH/HaizhiH.github.io/issues/new)。
